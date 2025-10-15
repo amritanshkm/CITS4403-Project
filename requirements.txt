@@ -1,0 +1,20 @@
+# Core data and math
+numpy
+pandas
+scipy
+
+# Modeling / statistics
+scikit-learn
+statsmodels
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Notebook and utilities
+jupyter
+ipykernel
+tqdm
+openpyxl
+pathlib
